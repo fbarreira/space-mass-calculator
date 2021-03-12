@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de Peso Espacial</string>
+    <string name="weight">Peso:</string>
+    <string name="calculate">Calcular</string>
+    <string name="how_much_weigh_moon">Quanto você pesaria na Lua?</string>
+    <string name="how_much_weigh_mercury">Quanto você pesaria em Mercúrio?</string>
+    <string name="how_much_weigh_venus">Quanto você pesaria em Vênus?</string>
+    <string name="how_much_weigh_mars">Quanto você pesaria em Marte?</string>
+    <string name="how_much_weigh_jupiter">Quanto você pesaria em Júpiter</string>
+    <string name="how_much_weigh_saturn">Quanto você pesaria em Saturno?</string>
+    <string name="how_much_weigh_neptune">Quanto você pesaria em Netuno?</string>
+    <string name="how_much_weigh_uranus">Quanto você pesaria em Urano?</string>
+    <string name="how_much_weigh_pluto">Quanto você pesaria em Plutão?</string>
+    <string name="your_weight_on_the_moon">Seu peso na Lua:</string>
+    <string name="your_weight_on_mercury">Seu peso em Mercúrio:</string>
+    <string name="your_weight_on_venus">Seu peso em Vênus:</string>
+    <string name="your_weight_on_mars">Seu peso em Marte:</string>
+    <string name="your_weight_on_jupiter">Seu peso em Júpiter:</string>
+    <string name="your_weight_on_saturn">Seu peso em Saturno:</string>
+    <string name="your_weight_on_neptune">Seu peso em Netuno:</string>
+    <string name="your_weight_on_uranus">Seu peso em Urano:</string>
+    <string name="your_weight_on_pluto">Seu peso em Plutão:</string>
+</resources>

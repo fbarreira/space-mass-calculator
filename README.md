@@ -1,5 +1,5 @@
 # Space Weight Calculator
-Calculate the mass of an object on a celestial body of the solar system
+Calculate the weight of an object on a celestial body of the solar system
 
 ** Currently only the moon is available :moon: **
 
